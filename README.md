@@ -1,5 +1,4 @@
 # mean-variance-standard-deviation-calculator
-# Mean-Variance-Standard-Deviation Calculator
 
 ## Description
 A Python calculator built using NumPy that calculates statistical measures from a list of nine numbers arranged into a 3×3 matrix.
